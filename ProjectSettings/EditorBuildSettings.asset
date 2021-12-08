@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/StickManBlast/mainMenu/MainMenu.unity
+    guid: 63be99a087ef54d4ba8f6ba2589913bc
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level1.unity
+    guid: efa3e3b6f45cb04499163d46fe0cbabf
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level2.unity
+    guid: 1c8dd1860e9b3b04c824c8a31ece7368
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level3.unity
+    guid: 00cd696703320b840966c6d60adcaff2
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level4.unity
+    guid: c9d552082c466904f9289f6b60a26312
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level5.unity
+    guid: 6991d36023328094ebbe9ae6b8e78578
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level6.unity
+    guid: 0a4f0af4b4e057143962329534c847e1
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level7.unity
+    guid: cd1e969372dcb4b4ba325b4f2e7ea4d1
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level8.unity
+    guid: 92d33fee6d5a41a419d6d844e0007788
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level9.unity
+    guid: 92f7b71862f30ed4bafaf1ddbd7b331f
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/1-10/Level10.unity
+    guid: d9478c44870d33f4f83f0980c3cef07b
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level11.unity
+    guid: cce6a6112fdf4704ea942d853b020f61
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level12.unity
+    guid: dea28b4dc09baa348b15bc08e399379a
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level13.unity
+    guid: 68d7242662dad1c45b90c34d64b03051
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level14.unity
+    guid: 995d2c1f1ef309e4e90f8e5c2ce72096
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level15.unity
+    guid: 79b163ec9125e104aaf397572c288fc2
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level16.unity
+    guid: 2f120aa5695615047892b5ca683e8d6c
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level17.unity
+    guid: 3a5a418f68380d14bbb4d65cb991b9bf
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level18.unity
+    guid: 868a899f654a2964ab57e3c7114ae3dc
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level19.unity
+    guid: 595224ac72191ba488923ca88d1ff86b
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/11-20/Level20.unity
+    guid: a9b844256bba6374599c00ee622c65e7
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level21.unity
+    guid: e8bb1184ba4fdee42a44aa9a07f22f42
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level22.unity
+    guid: f387aec84e311194b9a34385cd8b3656
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level23.unity
+    guid: 621ae66dcde3b2b49a2c0cffffa3d546
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level24.unity
+    guid: 1059a5b6ee2ac2442bbf78b912ae9573
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level25.unity
+    guid: c5de5028a0efa384a99bf8169feef91b
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level26.unity
+    guid: dc948a370786f9e49849e8506adffbe3
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level27.unity
+    guid: 993afbebeda5d1242accfacea9d3d3e5
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level28.unity
+    guid: 7e59f9971f6a73d439a29789ad0a69a7
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level29.unity
+    guid: 4a8ba53ac25e57a459499dfe88af2654
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/21-30/Level30.unity
+    guid: d485986a971179b45a3cd2dc6ac794a0
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level31.unity
+    guid: e220968eef3112b40b542411c83c1438
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level32.unity
+    guid: 7fd92a17e703d864b816b9a3eecb1d3b
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level33.unity
+    guid: 17f796ffcdc14b84abeccd1f2d879a55
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level34.unity
+    guid: b5f066b4b900e4b438a8853990964e0d
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level35.unity
+    guid: a91b5c7119c8bc348b7ffccfb6d987a4
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level36.unity
+    guid: 2f72b99be791e46408ac166e4c82dc6d
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level37.unity
+    guid: 5bde96976725809449e53d9d07e4ade9
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level38.unity
+    guid: f584f4bd8401e6147bfc48241ce750e7
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level39.unity
+    guid: 4d1523bac0c843e458f48a2614f6f4d8
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/31-40/Level40.unity
+    guid: d2142eb6de0971541bbde67235a3c173
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level41.unity
+    guid: e71448fdd323c2142abcd4602b94e3e7
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level42.unity
+    guid: 127d4cb492f66554989d30cb6fb9404a
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level43.unity
+    guid: db9905ef0c9a38c43854d11ee3f073e5
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level44.unity
+    guid: b2596808a2e87094cb6075fcc1efcbf6
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level45.unity
+    guid: df143c81b057e2b4783b614398c23f3f
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level46.unity
+    guid: 4a25f73c4ea2852438895771684ecd0d
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level47.unity
+    guid: 891d3603a6cec274f9801c9936f3deda
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level48.unity
+    guid: 537888ef307d738428a6409d7e4c0aed
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level49.unity
+    guid: ab1ba445367af3f428006d68d1b545f3
+  - enabled: 1
+    path: Assets/StickManBlast/Levels/41-50/Level50.unity
+    guid: 8906cc3776e40964f9b88003d96a67a5
+  m_configObjects: {}
